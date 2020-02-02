@@ -1,2 +1,2 @@
 // creating reactjs application with typescript support 
-create-react-app reacttype --scripts-version=react-scripts-ts
+create-react-app reacttype --template typescript
